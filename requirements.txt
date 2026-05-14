@@ -1,0 +1,9 @@
+flask==3.0.3
+flask-cors==4.0.1
+pandas==2.2.2
+scikit-learn==1.4.2
+flwr==1.8.0
+google-generativeai==0.7.2
+transformers==4.41.2
+torch==2.3.0
+numpy==1.26.4
