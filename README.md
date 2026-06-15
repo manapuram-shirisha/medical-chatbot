@@ -139,10 +139,36 @@ Open web/index.html
 
 ## Screenshots
 
-server-running.png
-chatbot-home.png
-symptom-input.png
-prediction-result.png
+### Medical Chatbot Server Running
+
+Shows the Flask backend server running successfully.
+
+![Medical Chatbot Server](screenshots/server-running.png)
+
+---
+
+### AI Medical Chatbot Home Page
+
+Initial chatbot interface prompting users to enter their symptoms.
+
+![Chatbot Home](screenshots/chatbot-home.png)
+
+---
+
+### Symptom Input Example
+
+User entering symptoms such as headache and fever.
+
+![Symptom Input](screenshots/symptom-input.png)
+
+---
+
+### Disease Prediction Result
+
+The chatbot predicts a disease and displays the description, severity level, and precautions.
+
+![Disease Prediction Result](screenshots/prediction-result.png)
+
 
 ## Author
 
