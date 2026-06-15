@@ -139,21 +139,10 @@ Open web/index.html
 
 ## Screenshots
 
-### Medical Chatbot Server Running
-
-![Medical Chatbot Server](screenshots/server-running.png)
-
-### AI Medical Chatbot Home Page
-
-![Chatbot Home](screenshots/chatbot-home.png)
-
-### Symptom Input Example
-
-![Symptom Input](screenshots/symptom-input.png)
-
-### Disease Prediction Result
-
-![Prediction Result](screenshots/prediction-result.png)
+server-running.png
+chatbot-home.png
+symptom-input.png
+prediction-result.png
 
 ## Author
 
