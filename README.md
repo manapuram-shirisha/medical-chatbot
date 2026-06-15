@@ -139,17 +139,10 @@ Open web/index.html
 
 ## Screenshots
 
-### Home Page
-
-(Add screenshot here)
-
-### Chat Interface
-
-(Add screenshot here)
-
-### Disease Prediction Output
-
-(Add screenshot here)
+server-running.png
+chatbot-home.png
+symptom-input.png
+prediction-result.png
 
 ## Author
 
